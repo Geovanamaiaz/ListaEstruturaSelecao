@@ -2,7 +2,7 @@
 int main(){
 
     //Declaracao de variaveis
-    int idade  = 0;
+    int idade;
 
     //Entrada de dados
     printf("Digite sua idade: ");
