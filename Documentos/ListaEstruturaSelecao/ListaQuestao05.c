@@ -12,10 +12,10 @@ int main(){
     if(salario_funcionario <=300){
         salario_reajustado = salario_funcionario + (salario_funcionario * 0.50);
     }else{
-        salario_reajustado = salario_funcionario + (salario_funcionario* 0.30);
+        salario_reajustado = salario_funcionario + (salario_funcionario * 0.30);
     }
 
-    printf("Salario reajustado: R$ %.2F\n",salario_reajustado);
+    printf("Salario reajustado: R$ %.2f\n",salario_reajustado);
     
     return 0;
 }
