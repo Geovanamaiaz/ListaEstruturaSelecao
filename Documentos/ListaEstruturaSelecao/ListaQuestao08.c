@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
+    
     //Declaracao de variaveis
-
     float n1,n2,n3;
     float media_ponderada = 0;
 
