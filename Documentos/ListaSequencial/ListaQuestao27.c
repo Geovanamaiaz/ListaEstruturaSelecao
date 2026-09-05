@@ -4,6 +4,7 @@ int main(){
     //Declaracao de variaveis
     float a,b,c,d,e,f;
     float valor_x, valor_y;
+    
     //Entrada de dados
     printf("Digite o valor  a: ");
     scanf("%f",&a);

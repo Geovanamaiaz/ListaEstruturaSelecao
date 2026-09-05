@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     
-    //Declaraçâo de variaveis
+    //Declaração de variaveis
     float largura = 0, comprimento = 0;
     float area_total = 0;
     

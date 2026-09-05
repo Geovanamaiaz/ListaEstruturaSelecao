@@ -15,4 +15,4 @@ int main(){
     printf("O novo salario do funcionario eh: %.2f\n",novo_salario);
     
     return 0;
-}
+} 
