@@ -1,6 +1,10 @@
 #include<stdio.h>
 int main(){
-    
+   
+    /* Crie um programa que receba três nomes quaisquer por meio da linha de execução do programa, e
+os imprima na tela da seguinte maneira: o primeiro e o último nomes serão impressos na primeira linha
+um após o outro, o outro nome (o segundo) será impresso na segunda linha.*/
+
    //Declaracao de variaveis
    char nome1[50], nome2[50], nome3[50];
     

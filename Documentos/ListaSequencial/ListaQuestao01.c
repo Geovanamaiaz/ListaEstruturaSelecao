@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
     
+    //Faça um algoritmo que receba dois números inteiros e imprima a soma desses dois números.
+
     //Declaracao de variaveis 
     int num1,num2;
     int soma = 0;

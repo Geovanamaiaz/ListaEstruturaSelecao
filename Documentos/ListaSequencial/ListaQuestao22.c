@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
-    
+
+    /*Entrar via teclado com o valor de cinco produtos. Após as entradas, digitar um valor referente ao
+pagamento da somatória destes valores. Calcular e exibir o troco que deverá ser devolvido.*/
+
     //Declaracao de variaveis
     int valor1, valor2, valor3, valor4, valor5;
     int soma,valor_pagamento = 0, troco = 0;

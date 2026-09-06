@@ -1,6 +1,10 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
+• A idade dessa pessoa;
+•Quantos anos ela terá em 2028.*/
+
     //Declaracao de variaveis
     int ano_nascimento = 0, ano_atual;
     int idade = 0, idade_2028;

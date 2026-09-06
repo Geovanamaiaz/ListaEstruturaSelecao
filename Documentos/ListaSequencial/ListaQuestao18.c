@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um programa que receba a quantidade e o valor de três produtos, no seguinte formato:
+quantidade1 valor1 quantidade2 valor2 quantidade3 valor3. O programa deve calcular esses valores
+seguindo a fórmula total = quantidade1* valor1 + quantidade2 * valor2 + quantidade3 * valor3. O valor
+total deve ser apresentado no final da execução do programa.*/
+
     //Declaração de variaveis
     int quantidade1 = 0, quantidade2 = 0, quantidade3 = 0;
     int valor1 = 0, valor2 = 0, valor3 = 0;

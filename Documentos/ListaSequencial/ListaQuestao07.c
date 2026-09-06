@@ -2,6 +2,8 @@
 #include<math.h> 
 int main(){
     
+    //Faça um algoritmo que receba dois números, calcule e imprima um elevado ao outro.
+
     //Declaracao de variaveis
     float base = 0, expoente = 0;
     float resultado = 0;

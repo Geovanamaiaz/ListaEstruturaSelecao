@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
 
+    /*Faça um algoritmo que receba duas notas de um aluno e seus respectivos pesos, calcule e imprima a
+média ponderada dessas notas.*/
+
     //Declaração de varíaveis
     float nota1 = 0, nota2 = 0;
     float peso1 = 0, peso2 = 0;

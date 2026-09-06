@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
-   
+    
+    /*Faça um algoritmo que calcule e imprima a área das seguintes figuras geométricas:
+    • triângulo; quadrado; círculo; trapézio; retângulo; losango.*/
+    
     //Declaracao de variaveis
     float area = 0, base = 0, altura = 0,lado = 0,raio = 0, base_maior = 0;
     float base_menor = 0,diagonal_maior = 0 ,diagonal_menor = 0;

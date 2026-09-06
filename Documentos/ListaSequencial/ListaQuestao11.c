@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
     
+    /*Calcular e exibir a área de um quadrado a partir do valor de sua diagonal que será digitado.*/
+    
     //Declaracao de variaveis
     float area_quadrado = 0;
     float valor_diagonal = 0;

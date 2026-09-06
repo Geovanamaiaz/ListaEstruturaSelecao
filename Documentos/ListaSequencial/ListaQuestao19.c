@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
     
+    /*Crie um programa que receba valores quaisquer e mostre a média entre eles, o somatório entre eles
+e o resto da divisão do somatório por cada um dos valores.*/
+
     //Declaração de variaveis
     float largura = 0, comprimento = 0;
     float area_total = 0;

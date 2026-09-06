@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main(){
     
+    /*Elabore um algoritmo para efetuar o cálculo da quantidade de combustível gasto em uma viagem,
+utilizando-se um automóvel que faz 12 Kms por litro. Para obter o cálculo, o usuário deverá fornecer o
+tempo gasto e a velocidade média durante a viagem. Desta forma, será possível obter a distância
+percorrida (distância = tempo * velocidade).*/
+
     //Declaracao de variaveis
     float tempo_gasto = 0, velocidade_media = 0;
     float distancia_percorrida = 0, combustivel_gasto = 0;

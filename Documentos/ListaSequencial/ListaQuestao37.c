@@ -1,6 +1,12 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um algoritmo que receba o custo de um espetáculo teatral e o preço do convite esse
+espetáculo. Esse programa deve calcular e mostrar:
+•A quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja
+alcançado.
+•A quantidade de convites que devem ser vendidos para que se tenha um lucro de 23%.*/
+
     //Declaracao de variaveis
     float custo_espetaculo = 0, preco_convites = 0;
     float qtd_convites = 0, lucro_convites = 0;

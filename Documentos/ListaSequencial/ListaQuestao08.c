@@ -2,10 +2,15 @@
 #include<math.h>
 int main(){
     
-    //Declaracao de variaveis
+    /*Faça um programa que receba um número inteiro, calcule e imprima:
+    • a raiz quadrada desse número;
+    • esse número elevado ao quadrado*/
+
+    //Declaração de variaveis
     float numero;
     float raiz_quadrada = 0;
-    
+    float numero_elevado_quadrado = 0;
+
     //Entrada de dados
     printf("Digite um numero: ");
     scanf("%f",&numero);

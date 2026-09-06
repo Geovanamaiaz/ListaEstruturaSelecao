@@ -1,6 +1,10 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um algoritmo que após a entrada de uma determinada distância entre dois pontos (em KM) e
+uma determinada velocidade (km/h), diga qual o tempo médio que levará para chegada a esse local e
+qual a velocidade em metros/segundo.*/
+    
     //Declaracao de variaveis
     float distancia = 0, velocidade = 0, tempo, = 0, velocidade_ms = 0;
     

@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um algoritmo que receba um número inteiro, calcule e imprima a tabuada de multiplicação desse
+número.*/
+
     //Declaração de varíaveis
     int numero_inteiro;
     

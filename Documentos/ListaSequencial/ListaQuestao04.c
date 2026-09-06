@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um algoritmo que receba três notas de um aluno, calcule e imprima a média aritmética entre essas
+notas.*/
+
     //Declaração de varíaveis
     float nota1, nota2, nota3;
     float soma = 0, media_aritmetica = 0;

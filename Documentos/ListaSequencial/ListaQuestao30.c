@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
-    
+
+    /*Faça um algoritmo que receba o preço de custo de um produto e mostre o valor de venda. Sabe-se
+que o preço de custo receberá um acréscimo de acordo com um percentual informado pelo usuário.*/
+
     //Declaracao de variaveis
     float preco_produto = 0, valor_venda = 0, percentual_acrescimo = 0;
     

@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main(){
     
+    /*Considerando uma eleição de apenas 2 candidatos, elabore um algoritmo que leia do teclado o
+número total de eleitores, o número de votos do primeiro candidato e o número de votos do segundo
+candidato. Em seguida, o algoritmo deverá apresentar o percentual de votos de cada um dos candidatos
+e o percentual de votos nulos.*/
+
     //Declaração de varíaveis
     float total_eleitores = 0, votos_candidato_1 = 0, votos_candidato_2 = 0, votos_nulos = 0;
     float percentual_candidato_1 = 0, percentual_candidato_2 = 0,percentual_nulos = 0;

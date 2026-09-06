@@ -1,6 +1,13 @@
 #include<stdio.h>
 int main(){
     
+    /*Sabe-se que o kilowatt de energia custa um quinto do salário mínimo. Faça um algoritmo que
+receba o valor do salário mínimo e a quantidade de quilowatts gasta por uma residência. Calcule e
+imprima:
+• o valor, em reais, de cada kilowatt;
+• o valor, em reais, a ser pago por essa residência;
+• o novo valor a ser pago por essa residência, a partir de um desconto de 15%.*/
+
     //Declaracao de variaveis
     float salario_minimo = 0, quantidade_kwh = 0;
     float valor_kwh = 0, valor_total = 0,desconto = 0, valor_final = 0;

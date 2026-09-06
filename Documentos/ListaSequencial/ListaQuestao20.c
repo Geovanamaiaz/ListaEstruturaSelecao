@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
     
+    /*Crie um programa que receba a largura e o comprimento de um lote de terra e mostre a área total
+existente.*/
+
     //Declaracao de variaveis
     int valor1 = 0, valor2 = 0;
     int soma = 0, resto1, resto2;

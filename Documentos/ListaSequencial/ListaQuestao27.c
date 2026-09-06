@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
-   
+    
+    /*Faça um algoritmo para ler os coeficientes (a,b,c,d,e,f) das equações e calcular e exibir os valores de x e
+y.*/
+
     //Declaracao de variaveis
     float a,b,c,d,e,f;
     float valor_x, valor_y;

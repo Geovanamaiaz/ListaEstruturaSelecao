@@ -1,5 +1,8 @@
 #include<stdio.h>
 int main(){
+    
+    /*Faça um algoritmo que receba dois números reais, calcule e imprima a subtração do primeiro número
+pelo segundo*/
 
     //Declaração de variaveis
     int num1, num2;

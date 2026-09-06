@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
     
+  /*Faça um algoritmo que receba o valor do salário de um funcionário e o valor do salário mínimo. Calcule e
+imprima quantos salários mínimos ganha esse funcionário.*/
+
     //Declaração de varíaveis
     float salario_funcionario = 0, salario_minimo = 0, qtd_salarios = 0;
     

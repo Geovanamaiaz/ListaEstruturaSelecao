@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um algoritmo que receba dois números inteiros, calcule e imprima a divisão do primeiro número
+pelo segundo*/
+
     //Declaração de varíaveis
     float num1, num2;
     float divisao = 0;

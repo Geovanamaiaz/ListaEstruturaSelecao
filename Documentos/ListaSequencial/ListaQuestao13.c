@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um algoritmo que receba o salário de um funcionário, calcule e imprima o novo salário
+sabendo-se que este sofreu um aumento de 25%.*/
+    
     //Declaracao de variaveis
     float salario_funcionario = 0, novo_salario = 0;
     

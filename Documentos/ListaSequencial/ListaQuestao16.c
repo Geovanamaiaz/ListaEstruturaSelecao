@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual. Calcule e
+imprima:
+• a idade dessa pessoa;
+• essa idade convertida em semanas.*/
+
     //Declaracao de variaveis
     int ano_nascimento, ano_atual, idade, idade_semanas;
     

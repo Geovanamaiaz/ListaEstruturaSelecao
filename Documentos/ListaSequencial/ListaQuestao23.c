@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
     
+    /*Escreva um algoritmo para trocar os valores de três variáveis A, B e C de modo que A fique com o
+valor de B, B fique com o valor de C e C fique com o valor de A.*/
+
     //Declaracao de variaveis
     int a, b, c, temp;
     
