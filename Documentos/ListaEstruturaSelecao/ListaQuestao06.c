@@ -10,7 +10,7 @@ int main(){
     printf("Digite sua altura: "); // 1.60 
     scanf("%f",&altura);
 
-    printf("Digite seu sexo: "); 
+    printf("Digite seu sexo: "); //Feminino
     scanf("%s",&sexo);
 
     //Condicional
