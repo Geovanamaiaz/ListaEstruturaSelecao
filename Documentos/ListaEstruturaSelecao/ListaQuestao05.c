@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um programa que calcule e imprima o salário reajustado de um funcionário de acordo
+com a seguinte regra:
+• salários até 300, reajuste de 50%;
+• salários maiores que 300, reajuste de 30%.*/
+
     //Declaracao de variaveis
     float salario_funcionario = 0, salario_reajustado = 0;
 

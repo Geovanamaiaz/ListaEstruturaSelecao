@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
     
+    /*Faça um programa que receba a idade de uma pessoa e imprima mensagem de maioridade
+ou não.*/
+
     //Declaracao de variaveis
     int idade = 0;
 
