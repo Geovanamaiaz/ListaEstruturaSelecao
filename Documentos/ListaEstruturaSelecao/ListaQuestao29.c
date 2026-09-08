@@ -27,7 +27,7 @@ int main(){
     if (n2 % 2 == 0 && n2 % 3 == 0) { //5 % 2 == 0 e 5 % 3 == 0 falso
         printf("%d", n2);
     }
-      if (n3 % 2 == 0 && n3 % 3 == 0) {  // 6 % 2 == 0 e 6 % 3 == 0 verdadeiro
+    if (n3 % 2 == 0 && n3 % 3 == 0) {  // 6 % 2 == 0 e 6 % 3 == 0 verdadeiro
         printf("%d\n", n3);
     }
     if (n4 % 2 == 0 && n4 % 3 == 0) {   //7 % 2 == 0 e 7 % 3 == 0 falso
